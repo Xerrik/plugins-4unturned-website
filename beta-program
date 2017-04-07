@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Beta Program - Plugins 4Unturned!</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+<style>
+@font-face
+{
+font-family: N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY;
+src: url('http://plugins.4unturned.tk/N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY.ttf');
+}
+
+h7
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h2
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+</style>
+</head>
+<body>
+  <nav class="light-blue lighten-1" role="navigation">
+    <div class="nav-wrapper container">
+      <a href="/" class="brand-logo waves-effect"><img src="img/logo.png" height="45" width="45" align="center"/><font face="N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY">&nbsp;Plugins 4Unturned</font></a>
+      <ul class="right hide-on-med-and-down">
+
+<ul id="dropdown1" class="dropdown-content">
+    <li><a href="plugins/AdvancedChatControl" class="waves-effect"><font color="#01e576">AdvancedChatControl</font></a></li>
+    <li><a href="plugins/CustomKits" class="waves-effect"><font color="#01e576">CustomKits</font></a></li>
+    <li><a href="plugins/NameKicker" class="waves-effect"><font color="#01e576">NameKicker</font></a></li>
+    <li class="divider"></li>
+    <li><a class="waves-effect"><font color="#01e576">Upcoming Plugins...</font></a></li>
+  </ul>
+<ul id="dropdown2" class="dropdown-content">
+    <li><a href="plugins/AdvancedChatControl" class="waves-effect"><font color="#01e576">AdvancedChatControl</font></a></li>
+    <li><a href="plugins/CustomKits" class="waves-effect"><font color="#01e576">CustomKits</font></a></li>
+    <li><a href="plugins/NameKicker" class="waves-effect"><font color="#01e576">NameKicker</font></a></li>
+    <li class="divider"></li>
+    <li><a class="waves-effect"><font color="#01e576">Upcoming Plugins...</font></a></li>
+  </ul>
+        <li><a class="tooltipped dropdown-button waves-effect" href="#" data-activates="dropdown1" data-constrainWidth="false" data-hover="true"><i class="material-icons">apps arrow_drop_down</i></a></li>
+        <li><a class="tooltipped" data-position="bottom" data-delay="250" data-tooltip="Support" href="support"><i class="material-icons">accessibility</i></a></li>
+        <li><a class="tooltipped" data-position="bottom" data-delay="250" data-tooltip="Contact" href="contact"><i class="material-icons">contact_mail</i></a></li>
+        <li><a class="tooltipped" data-position="bottom" data-delay="250" data-tooltip="About" href="about"><i class="material-icons">info_outline</i></a></li>
+      </ul>
+
+<!-- MOBILE NAV BAR -->
+<ul id="nav-mobile" class="side-nav">
+           <li><a class="dropdown-button waves-effect" href="#" data-activates="dropdown2" data-constrainWidth="false"><i class="material-icons">apps arrow_drop_down</i>Plugins</a></li>
+           <li><a href="support"><i class="material-icons">accessibility</i>Support</a></li>
+           <li><a href="contact"><i class="material-icons">contact_mail</i>Contact</a></li>
+           <li><a href="about"><i class="material-icons">info_outline</i>About</a></li>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"></a>
+
+    </div>
+  </nav>
+
+<!-- start main page -->
+
+<br><br>
+ <div class="container">
+  <div class="row">
+    <div class="col s6 offset-s3 valign">
+      <div class="card">
+        <div class="card-content black-text">
+          <span class="card-title">Beta Program!</span>
+          <li class="divider"></li>
+             <span>
+
+<br>
+<font size="4">Overview</font>
+<br><br>
+The Beta Program is designed to let users test out the newest plugin builds and help devs find errors in their code. These newer build may contain new features, additions, fixes, etc. Keep in mind that these newer builds may be less stable than the current, public build.
+<br><br>
+Also, keep in mind that the update checker <i>will not</i> properly work for these Betas!
+<br><br>
+<font size="4">Current Betas</font>
+<br><br>
+Here are the current Beta builds...
+<br><br>
+
+            </span>
+
+<!-- start Betas -->
+
+<div class="collection">
+    <a href="http://plugins.4unturned.tk/plugins/AdvancedChatControl-BETA" class="collection-item avatar black-text">
+      <img src="img/otherapps/AdvancedChatControl.png" height="50" width="50" alt="ACC" class="circle">
+      <span class="title"><b>AdvancedChatControl</b></span>
+      <p>1.1 Beta 3<br>
+         March 21, 2017
+      </p>
+    </a>
+  </div>
+
+<!-- end Betas -->
+
+        </div>
+      </div>
+    </div>
+  </div>
+ </div>
+
+
+<br><br><br><br><br><br><br>
+
+<!-- end main page -->
+
+  <footer class="page-footer orange">
+
+    <div class="container">
+        <div class="col l6 s12">
+           <center>
+            <h7>
+              <a class="white-text" href="terms">Terms of Service</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="privacy-policy">Privacy Policy</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="beta-program">Beta Program</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="faq">FAQ</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="about">About</a>
+           </h7>
+          </center>
+        </div>
+    </div>
+              <br>
+
+    <div class="footer-copyright">
+       <center>
+        <h7>
+          <a class="white-text" href="http://steamcommunity.com/id/Teyhota"><b>Teyhota</b></a> (C) Copyright 2017
+        </h7>
+       </center>
+    </div>
+
+  </footer>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>

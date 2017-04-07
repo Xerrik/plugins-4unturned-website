@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta property="fb:app_id" content="1130581937052804" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Support - Plugins 4Unturned</title>
+
+<style>
+@font-face
+{
+font-family: N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY;
+src: url('http://plugins.4unturned.tk/N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY.ttf');
+}
+
+h7
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h2
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+</style>
+
+<link href="/hashover/comments.css" rel="stylesheet" type="text/css">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1130581937052804";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<style>
+@font-face
+{
+font-family: N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY;
+src: url('http://plugins.4unturned.tk/N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY.ttf');
+}
+
+h1
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+</style>
+
+<!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body>
+  <nav class="light-blue lighten-1" role="navigation">
+    <div class="nav-wrapper container">
+      <a href="/" class="brand-logo waves-effect"><img src="img/logo.png" height="45" width="45" align="center"/><font face="N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY">&nbsp;Plugins 4Unturned</font></a>
+      <ul class="right hide-on-med-and-down">
+
+<ul id="dropdown1" class="dropdown-content">
+    <li><a href="plugins/AdvancedChatControl" class="waves-effect"><font color="#01e576">AdvancedChatControl</font></a></li>
+    <li><a href="plugins/CustomKits" class="waves-effect"><font color="#01e576">CustomKits</font></a></li>
+    <li><a href="plugins/NameKicker" class="waves-effect"><font color="#01e576">NameKicker</font></a></li>
+    <li class="divider"></li>
+    <li><a class="waves-effect"><font color="#01e576">Upcoming Plugins...</font></a></li>
+  </ul>
+<ul id="dropdown2" class="dropdown-content">
+    <li><a href="plugins/AdvancedChatControl" class="waves-effect"><font color="#01e576">AdvancedChatControl</font></a></li>
+    <li><a href="plugins/CustomKits" class="waves-effect"><font color="#01e576">CustomKits</font></a></li>
+    <li><a href="plugins/NameKicker" class="waves-effect"><font color="#01e576">NameKicker</font></a></li>
+    <li class="divider"></li>
+    <li><a class="waves-effect"><font color="#01e576">Upcoming Plugins...</font></a></li>
+  </ul>
+        <li><a class="dropdown-button waves-effect" href="#" data-activates="dropdown1" data-constrainWidth="false" data-hover="true"><i class="material-icons">apps arrow_drop_down</i></a></li>
+        <li><a class="tooltipped" data-position="bottom" data-delay="250" data-tooltip="Support" href="support"><i class="material-icons">accessibility</i></a></li>
+        <li><a class="tooltipped" data-position="bottom" data-delay="250" data-tooltip="Contact" href="contact"><i class="material-icons">contact_mail</i></a></li>
+        <li><a class="tooltipped" data-position="bottom" data-delay="250" data-tooltip="About" href="about"><i class="material-icons">info_outline</i></a></li>
+      </ul>
+
+<!-- MOBILE NAV BAR -->
+<ul id="nav-mobile" class="side-nav">
+           <li><a class="dropdown-button waves-effect" href="#" data-activates="dropdown2" data-constrainWidth="false"><i class="material-icons">apps arrow_drop_down</i>Plugins</a></li>
+           <li><a href="support"><i class="material-icons">accessibility</i>Support</a></li>
+           <li><a href="contact"><i class="material-icons">contact_mail</i>Contact</a></li>
+           <li><a href="about"><i class="material-icons">info_outline</i>About</a></li>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"></a>
+
+    </div>
+  </nav>
+
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <div class="row center">
+        <h5 class="header col s12 light">Report bugs, ask questions, get help!</h5>
+        <h5 class="header col s12 light">Join our Discord server now!</h5>
+      </div>
+      <br><br>
+
+    </div>
+  </div>
+
+
+
+
+
+            <center><iframe src="https://discordapp.com/widget?id=294066231424843777&theme=dark" width="1000" height="450" allowtransparency="true" frameborder="0"></iframe></center>
+
+
+
+  
+<br><br><br><br>
+  <footer class="page-footer orange">
+
+    <div class="container">
+        <div class="col l6 s12">
+           <center>
+            <h7>
+              <a class="white-text" href="terms">Terms of Service</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="privacy-policy">Privacy Policy</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="beta-program">Beta Program</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="faq">FAQ</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="about">About</a>
+           </h7>
+          </center>
+        </div>
+    </div>
+              <br>
+
+    <div class="footer-copyright">
+       <center>
+        <h7>
+          <a class="white-text" href="http://steamcommunity.com/id/Teyhota"><b>Teyhota</b></a> (C) Copyright 2017
+        </h7>
+       </center>
+    </div>
+
+  </footer>
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Plugins 4Unturned</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+<style>
+@font-face
+{
+font-family: N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY;
+src: url('http://plugins.4unturned.tk/N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY.ttf');
+}
+
+h1
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+</style>
+</head>
+<body>
+  <nav class="light-blue lighten-1" role="navigation">
+    <div class="nav-wrapper container"><a id="logo-container" href="http://plugins.4unturned.tk/" class="brand-logo waves-effect">Plugins 4Unturned</a>
+      <ul class="right hide-on-med-and-down">
+                <li><a href="plugins" class="waves-effect">Plugins</a></li>
+		<li><a href="support" class="waves-effect">Support</a></li>
+		<li><a href="contact" class="waves-effect">Contact</a></li>
+		<li><a href="about" class="waves-effect">About</a></li>
+      </ul>
+
+      <ul id="nav-mobile" class="side-nav">
+                <li><a href="plugins" class="waves-effect">Plugins</a></li>
+		<li><a href="support" class="waves-effect">Support</a></li>
+		<li><a href="contact" class="waves-effect">Contact</a></li>
+		<li><a href="about" class="waves-effect">About</a></li>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+    </div>
+  </nav>
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <!--<div class="row center">
+        <h5 class="header col s12 light">Become A Beta Tester!</h5>
+      </div>
+      <div class="row center">
+        <a href="#" id="download-button" class="btn-large waves-effect waves-light orange">Sign Up!</a>
+      </div>
+      <br><br>-->
+
+    </div>
+  </div>
+
+
+  <div class="container">
+    <div class="section">
+
+      <!--   Icon Section   -->
+
+	  <div class="row center">
+        <h5 class="header col s12 light">Our Plugins...</h5>
+          </div>
+      
+<div class="row center">
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><a href="plugin/AdvancedChatControl" class="waves-effect"><img src="/img/otherapps/AdvancedChatControl.png" height="60" width="60"/></a></h2>
+            <h5 class="center">AdvancedChatControl</h5>
+
+            <p class="light">Take complete control over your server's chat!</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><a href="plugin/CustomKits" class="waves-effect"><img src="/img/otherapps/CustomKits.png" height="60" width="60"/></a></h2>
+            <h5 class="center">CustomKits</h5>
+
+            <p class="light">Save and load different inventories!</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><a href="plugin/NameKicker" class="waves-effect"><img src="/img/otherapps/NameKicker.png" height="60" width="60"/></a></h2>
+            <h5 class="center">NameKicker</h5>
+
+            <p class="light">Kick players based on their username!</p>
+          </div>
+        </div>
+
+	<div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><a href="https://dev.rocketmod.net/plugins/directmessenger/" class="waves-effect"><img src="/img/otherapps/PrivateMessages.png" height="60" width="60"/></a></h2>
+            <h5 class="center">PrivateMessages</h5>
+
+            <p class="light"><i>Plugin coming soon!</i><p>
+          </div>
+        </div>
+		
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><a href="#" class="waves-effect"><img src="/img/otherapps/ServerInfo.png" height="60" width="60"/></a></h2>
+            <h5 class="center">ServerInfo</h5>
+
+            <p class="light"><i>Plugin coming soon!</i></p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><img src="/img/more.png" height="60" width="60"/></h2>
+            <h5 class="center">And More!</h5>
+
+            <p class="light">We are constantly expanding our plugin database! Check back later for more...</p>
+          </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="section">
+
+    </div>
+  </div>
+
+  <footer class="page-footer orange">
+
+    <div class="container">
+        <div class="col l6 s12">
+           <center>
+              <h1 style="font-size:120%;"><a class="white-text" href="material">Google</a></h1>
+           </center>
+        </div>
+    </div>
+
+    <div class="footer-copyright">
+       <center>
+          <a class="white-text" href="http://steamcommunity.com/id/Teyhota"><b>Teyhota</b></a> &copy; Copyright 2017
+       </center>
+    </div>
+
+  </footer>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>

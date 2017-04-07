@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Plugins 4Unturned!</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+<style>
+@font-face
+{
+font-family: N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY;
+src: url('http://plugins.4unturned.tk/N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY.ttf');
+}
+
+h7
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h2
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+</style>
+</head>
+<body>
+  <nav class="light-blue lighten-1" role="navigation">
+    <div class="nav-wrapper container">
+      <a href="#!" class="brand-logo waves-effect"><img src="img/logo.png" height="45" width="45" align="center"/><font face="N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY">&nbsp;Plugins 4Unturned</font></a>
+      <ul class="right hide-on-med-and-down">
+
+<ul id="dropdown1" class="dropdown-content">
+    <li><a href="plugins/AdvancedChatControl" class="waves-effect"><font color="#01e576">AdvancedChatControl</font></a></li>
+    <li><a href="plugins/CustomKits" class="waves-effect"><font color="#01e576">CustomKits</font></a></li>
+    <li><a href="plugins/NameKicker" class="waves-effect"><font color="#01e576">NameKicker</font></a></li>
+    <li class="divider"></li>
+  </ul>
+<ul id="dropdown2" class="dropdown-content">
+    <li><a href="plugins/AdvancedChatControl" class="waves-effect"><font color="#01e576">AdvancedChatControl</font></a></li>
+    <li><a href="plugins/CustomKits" class="waves-effect"><font color="#01e576">CustomKits</font></a></li>
+    <li><a href="plugins/NameKicker" class="waves-effect"><font color="#01e576">NameKicker</font></a></li>
+    <li class="divider"></li>
+  </ul>
+        <li><a class="dropdown-button waves-effect" href="#" data-activates="dropdown1" data-constrainWidth="false" data-hover="true"><i class="material-icons">apps arrow_drop_down</i></a></li>
+        <li><a class="tooltipped" data-position="bottom" data-delay="250" data-tooltip="Support" href="support"><i class="material-icons">accessibility</i></a></li>
+        <li><a class="tooltipped" data-position="bottom" data-delay="250" data-tooltip="Contact" href="contact"><i class="material-icons">contact_mail</i></a></li>
+        <li><a class="tooltipped" data-position="bottom" data-delay="250" data-tooltip="About" href="about"><i class="material-icons">info_outline</i></a></li>
+      </ul>
+
+<!-- MOBILE NAV BAR -->
+<ul id="nav-mobile" class="side-nav">
+           <li><a class="dropdown-button waves-effect" href="#" data-activates="dropdown2" data-constrainWidth="false"><i class="material-icons">apps arrow_drop_down</i>Plugins</a></li>
+           <li><a href="support"><i class="material-icons">accessibility</i>Support</a></li>
+           <li><a href="contact"><i class="material-icons">contact_mail</i>Contact</a></li>
+           <li><a href="about"><i class="material-icons">info_outline</i>About</a></li>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"></a>
+
+    </div>
+  </nav>
+
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <h2 class="header center orange-text">Premium Rocket Plugins for <br>Unturned 3.0 Servers!</h2><br><br><br>
+    </div>
+  </div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col s8 offset-s2 valign">
+      <div class="card">
+        <div class="card-content black-text">
+          <span class="card-title">Announcements</span>
+          <li class="divider"></li>
+    <div class="card-tabs">
+      <ul class="tabs tabs-fixed-width">
+        <li class="tab"><a href="#ours"><font color="#000">Ours</font></a></li>
+        <li class="tab"><a class="active" href="#unturned"><font color="#000">Unturned</font></a></li>
+        <li class="tab"><a href="#rocketmod"><font color="#000">Rocket Mod</font></a></li>
+      </ul>
+    </div>
+    <div class="card-content grey lighten-4">
+      <div id="ours">
+
+<font size="4">Our Announcements!</font><br>
+<font size="2">Apr. 1st, 2017</font>
+<br><br>
+***AdvancedChatControl 1.1 out now! (<a href="http://plugins.4unturned.tk/plugins/AdvancedChatControl">CLICK ME</a>)
+<br>
+***PrivateMessages 1.2 out now! (<a href="https://dev.rocketmod.net/?post_type=rplugin&p=5209">CLICK ME</a>)
+<br><br>
+<font size="3">Schedule:</font>
+<li class="divider"></li>
+<br>
+&bull; <b>April 3rd</b> - CustomKits 1.3 Beta release
+<br>
+&bull; <b>April 5th</b> - ChatChannels 1.0 Beta release
+<br><br>
+<font size="3">Upcoming Plugins:</font>
+<li class="divider"></li>
+<br>
+&bull; ChatChannels
+<br>
+&bull; KeepItems
+<br>
+&bull; VoteRewards
+</div>
+
+
+<div id="unturned">
+<font size="4">3.18.5.0 Update Notes</font><br>
+<font size="2">March 31 - SDGNelson</font>
+<br><br>
+<font size="3">Update Notes:</font>
+<li class="divider"></li>
+<br>
+<b>Additions:</b>
+<br><br>
+&bull; Added popular workshop item display to main menu news.
+<br>
+&bull; Added stereo. [ID 1466]
+<br>
+&bull; Added playtime drop skins for all melee weapons.
+<br>
+&bull; Added option to disable featured workshop item section.
+<br>
+&bull; Added moon buggy. [ID 139]
+<br>
+&bull; Added Use_Legacy_Fog_Height and Use_Legacy_Oxygen_Height to level config.
+<br><br>
+<b>Improvements:</b>
+<br><br>
+&bull; Transplanted PEI and surrounding waters to another planet for a change of scenery.
+<br><br>
+<b>Updates:</b>
+<br><br>
+&bull; Tweaked more food items to cause hallucinations in line with their real life counterparts.
+<br><br>
+<b>Fixes:</b>
+<br><br>
+&bull; Fixed devkit browsers to reset scrollbar when refreshed.
+<br>
+&bull; Fixed naming of skin creator secondary folders.
+<br>
+&bull; Fixed several objects showing up black.
+<br>
+&bull; Fixed coastguard window collision.
+<br><br>
+<font size="3">Stereo:</font>
+<li class="divider"></li>
+<br>
+For the moment only Unturned's theme song is available officially, but adding custom music is relatively straightforward. Export audioclips from Unity into an assetbundle ending with .content. Then create a stereo song asset from the asset browser (right click) and drag/drop the audioclip into the song slot. The theme song example file can be found in Bundles/Assets/Songs.
+      </div>
+      <div id="rocketmod">
+
+<font size="4">Rocket.Unturned 4.9.3.0</font><br>
+<font size="2">Nov. 1st, 2016</font>
+<br><br>
+<b>Upcoming feature in Unturned:</b>
+<br>
+In the next version Nelson will release this friday the first bits for client modding will be included.
+In the future developers might create their own item logic, UI elements ect - RocketMod will play the role as a mediator - helping you "connect" clientmods to existing RocketMod plugins.
+<br><br>
+<b>No longer shipping Assembly-CSharp.dll & different installation for RocketMod</b>
+<br>
+Starting next friday RocketMod will no longer ship with a patched Assembly-CSharp - instead it will come as Unturned module. 
+In the future - deploying Rocket.Unturned is as easy as replacing the folder inside of "Modules" in the Unturned root.
+<br><br>
+I have already finished the needed changes in Rocket.Unturned and finished the module, 
+Note that all scripts will probably break as the deployment changed, we will fix the scripts shipped with the RocketMod in the week after the release.
+To prepare your plugins to be compatible with the Rocket.Unturned module try building them against this version of Rocket.Unturned.
+Don't try to install it somewhere as it will not work for now.
+<br><br>
+<b>RocketMod rework aka. the "sandbox" update</b>
+<br>
+RocketMod is currently in a huge rework. Nelson and I have started working on a proper integration of RocketMod into Unturned, the next thing to do is a "safe code"(c) loading mechanism allowing only harmless code to be executed in plugins and modules - preparing the way for RocketMod plugins and client modules from the Steam Workshop. RocketMod will also be streamlined to more act as a framework and the server GUI "Rocket.Launcher", a built-in SOAP webservice and log4net integration is in the work. I can't give an eta when the rework will be finished but I expect it to be ready to be released in the first half of the next year.
+<br><br>
+Thanks for your support, also big thanks to Nelson for working with me together on this.
+I also want to thank Jamie, Simon, Matti and all the other community members for their help.
+<br><br>
+fr34kyn01535 | Sven
+<br>
+PS. It's freakynoises btw, my name is not Frank! :P
+      </div>
+    </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+
+  <footer class="page-footer orange">
+
+    <div class="container">
+        <div class="col l6 s12">
+           <center>
+            <h7>
+              <a class="white-text" href="terms">Terms of Service</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="privacy-policy">Privacy Policy</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="beta-program">Beta Program</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="faq">FAQ</a><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;</font>
+              <a class="white-text" href="about">About</a>
+           </h7>
+          </center>
+        </div>
+    </div>
+              <br>
+
+    <div class="footer-copyright">
+       <center>
+        <h7>
+          <a class="white-text" href="http://steamcommunity.com/id/Teyhota"><b>Teyhota</b></a> (C) Copyright 2017
+        </h7>
+       </center>
+    </div>
+
+  </footer>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>

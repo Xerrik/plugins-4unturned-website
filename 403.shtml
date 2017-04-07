@@ -1,0 +1,43 @@
+<html>
+<title>403 Forbidden</title></head>
+<body text="#ffffff" bgcolor="#0000cc" link="#ffffcc" vlink="#ff9966"><center><div align="center">
+<body onclick='window.location.href="http://plugins.4unturned.tk"'>
+<script type="text/javascript">
+  function blink() {
+    var blinks = document.getElementsByTagName('blink');
+    for (var i = blinks.length - 1; i >= 0; i--) {
+      var s = blinks[i];
+      s.style.visibility = (s.style.visibility === 'visible') ? 'hidden' : 'visible';
+    }
+    window.setTimeout(blink, 1000);
+  }
+  if (document.addEventListener) document.addEventListener("DOMContentLoaded", blink, false);
+  else if (window.addEventListener) window.addEventListener("load", blink, false);
+  else if (window.attachEvent) window.attachEvent("onload", blink);
+  else window.onload = blink;
+</script>
+<pre><code>
+
+
+
+
+<table border="0" bgcolor="#C0C0C0"><tr><td><code><font color="#330033">ERR 403</font></code></td></tr></table>
+
+
+FFFFFF0 FFFFFFF FF00000 FF00000 0FFFFF0 FF000FF FF000FF
+FF000FF 000F000 FF00000 FF00000 FF000FF FF000FF 0FF0FF0
+FFFFFF0 000F000 FF00000 FF00000 0FFF000 FF000FF 00FFF00
+FFFFFF0 000F000 FF00000 FF00000 000FFF0 FF000FF 00FFF00
+FF000FF 000F000 FF00000 FF00000 FF000FF FF000FF 0FF0FF0
+FFFFFF0 FFFFFFF FFFFFFF FFFFFFF 0FFFFF0 0FFFFF0 FF000FF
+
+
+The page you have attempted to access is forbidden!
+
+
+Click anywhere to continue<blink>_</blink>
+</code></pre>
+</div></center>
+<hr>
+</body>
+</html>
